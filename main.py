@@ -7,9 +7,9 @@ import requests
 from telegram import Bot
 
 # ==================== আপনার তথ্যগুলো দিন ====================
-BOT_TOKEN = 8912530871:AAFlJn14vCbhaszkgo5E6s-CX-Zjk4zwmR0
-CHANNEL_ID = @india_top_deals
-CUELINKS_API_KEY = Vtz48sGyZuozckO6NhoPelYqsYxRzwija5DbJXMRXCY
+BOT_TOKEN = "8912530871:AAF1Jn14vCbhaszkgo5E6s-CX-Zjk4zwmR0"
+CHANNEL_ID = "@india_top_deals"
+CUELINKS_API_KEY = "Vtz48sGyZuozckO6NhoPelYqsYxRzwija5DbJXMRXCY"
 # ==========================================================
 
 POSTED_DEALS_FILE = "posted_deals.txt"

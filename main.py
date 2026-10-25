@@ -8,7 +8,7 @@ import requests
 from telegram import Bot
 
 Environment Variables থেকে তথ্য সংগ্রহ করবে
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8912530871:AAHy_asolgPMREP6st-rC_2HZL1yTbnbs_M")
 CHANNEL_ID = os.getenv("@india_top_deals")
 CUELINKS_API_KEY = os.getenv("0NA3xXPzaVBi9WrpTjszwjTzxYnyicihZXreV-YCXdY")
 
@@ -125,3 +125,4 @@ def main():
 
 if name == "main":
     main()
+    
